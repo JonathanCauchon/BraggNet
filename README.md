@@ -6,5 +6,5 @@ We  propose  the  use  of  a  deep  learning  model  toreconstruct the physical 
 ### Problem Definition
 
 <div style="text-align: center; width: 80%;">
-<img src=https://github.com/JonathanCauchon/BraggNet/figures/cdc_segment.pdf />
+<img src="https://github.com/JonathanCauchon/BraggNet/figures/cdc_segment.pdf" />
 </div>
