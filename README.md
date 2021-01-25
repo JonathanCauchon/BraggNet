@@ -6,7 +6,7 @@ proves suitable for inverse design applications. To show the potential of the ap
 
 More information to come soon.
 
-<div style="text-align: center; width: 50%;>
-            <img src="https://github.com/JonathanCauchon/BraggNet/blob/main/Screen%20Shot%202021-01-25%20at%2011.11.10%20AM.png" />
-</div>                                                                                                                               
+<div style="text-align:center; width:50%;"><img src="https://github.com/JonathanCauchon/BraggNet/blob/main/Screen%20Shot%202021-01-25%20at%2011.11.10%20AM.png" /></div>
+                                                                                                                              
                                                                                                                                 
+hi
