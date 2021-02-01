@@ -11,10 +11,3 @@ More information to come soon.
   <img width="600" src="https://github.com/JonathanCauchon/BraggNet/blob/main/Screen%20Shot%202021-01-25%20at%2011.11.10%20AM.png">
 </p>
 
-
-### Requirements
-
-
-### Methodology
-
-### Future Work
